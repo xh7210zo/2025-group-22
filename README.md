@@ -20,6 +20,13 @@ Add a group photo here!
 - Group member 4, name, email, role
 - Group member 5, name, email, role
 - Group member 6, name, email, role
+   GROUP MEMBER	NAME	EMAIL	ROLE	CONTRIBUTIONS
+01	Qiwei Lian	vr24936@bristol.ac.uk	TEST	TEST
+02	Gaochang He	co24396@bristol.ac.uk	TEST	TEST
+03	Yi-Chun Chi	ws24986@bristol.ac.uk	TEST	TEST
+04	Xu Hu	ty24832@bristol.ac.uk	TEST	TEST
+05	Wenqi Xue	qh24128@bristol.ac.uk	TEST	TEST
+06  Hao Jen Shih qf24044@bristol.ac.uk TEST	TEST
 
 ## Project Report
 
